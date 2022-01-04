@@ -59,7 +59,7 @@ nav i {
 .main-adder {
     position: relative;
     /* min-height: 100%; */
-    min-height: 27.4rem;
+    min-height: 12rem;
     float: left;
     width: 40%;
     display: block;
