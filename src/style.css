@@ -159,7 +159,6 @@ button.add-project i {
 }
 
 footer {
-    width: 100%;
     min-height: 3.75rem;
     background-color: #333333;
     display: flex;
