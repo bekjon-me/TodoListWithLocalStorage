@@ -67,6 +67,7 @@ nav i {
     text-align: center;
     padding: 0 auto;
     transition: 1s ease;
+    border-right: 2px solid;
 }
 
 .main-adder button:first-child {
