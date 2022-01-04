@@ -168,7 +168,9 @@ footer {
     align-items: center;
     color: white;
     transition: .5s ease;
-    position: relative;
+    position: absolute;
+    bottom:0;
+    margin-top:2rem;
 }
 
 footer a {
