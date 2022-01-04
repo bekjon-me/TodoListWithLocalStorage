@@ -63,7 +63,7 @@ nav i {
     float: left;
     width: 40%;
     display: block;
-    background-color: #ddd;
+    background-color: transparent;
     text-align: center;
     padding: 0 auto;
     transition: 1s ease;
@@ -160,7 +160,7 @@ button.add-project i {
 
 footer {
     min-height: 3.75rem;
-    background-color: #333333;
+    background-color: #999;
     display: flex;
     /* display: none; */
     justify-content: center;
