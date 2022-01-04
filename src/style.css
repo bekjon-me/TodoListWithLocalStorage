@@ -266,6 +266,8 @@ footer i:hover {
         position: relative;
         width: 100%;
         margin-bottom: 0;
+        border-right: none;
+        border-bottom: 2px solid;
     }
     .main-added {
         position: relative;
